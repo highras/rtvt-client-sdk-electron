@@ -1,4 +1,4 @@
-# web-rtvt-sdk 使用文档 #
+# electron-rtvt-sdk 使用文档 #
 
 #### 引入依赖库 ####
 ```html
