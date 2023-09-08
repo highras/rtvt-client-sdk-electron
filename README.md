@@ -2,7 +2,7 @@
 
 #### 引入依赖库 ####
 ```html
-const { RTVTClient}  = require('./rtvt-electron-sdk/rtvt.sdk.js');
+const { RTVTClient }  = require('./rtvt-electron-sdk/rtvt.sdk.js');
 ```
 
 #### 使用示例 ####
